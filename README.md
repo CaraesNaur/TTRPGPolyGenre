@@ -2,7 +2,7 @@
 
 Tabletop Role-playing games (RPGs) are currently classified into [genres](https://www.merriam-webster.com/dictionary/genre) mostly borrowed from fiction literature (novels and short stories in particular).  The RPG, as an interactive medium, demands a more sophisticated classification system.  Such a system would allow RPGs to be described in a clearer and more concise manner.
 
-The goal of this system is twofold: Codify a universal terminology of genre for design/marketing purposes, and give players a vocabulary to describe the kind of games that they enjoy. The idea is to raise all ships.  Designers know who their audience is, publishers and sellers know how to market, and players know what they’re getting into.
+The goal of this system is twofold: Codify a universal terminology of genre for design/marketing purposes, and give players a vocabulary to describe the kind of games that they enjoy. The idea is to raise all ships.  Designers know who their audience is, publishers and sellers know how to market, and players know what they're getting into.
 
 ## RPG Aspects
 
@@ -10,7 +10,7 @@ We propose a set of five aspects that combine to express the fundamental identit
 
 ### Setting
 
-Setting refers to the environment imagined by players where their characters’ actions take place, or elements/conditions within the environment.
+Setting refers to the environment imagined by players where their characters' actions take place, or elements/conditions within the environment.
 
 Examples:
 
@@ -76,7 +76,7 @@ Politics is interactive dynamics between factions; including schoolyard cliques,
 
 ### Mechanics
 
-The Mechanics aspect addresses the nature of the game’s rules as well as the means by which players interact with them.
+The Mechanics aspect addresses the nature of the game's rules as well as the means by which players interact with them.
 
 * Character assemblage: each player has one character at a time who collectively form a collaborative party (the de facto norm), [troupe system](https://en.wikipedia.org/wiki/Troupe_system), faction heads (each character represents/leads an organization or region)
 * Character Base: the mechanical basis of character role: class-based, skills-based
@@ -84,7 +84,7 @@ The Mechanics aspect addresses the nature of the game’s rules as well as the m
 * Die Mechanic: a brief overview of the die mechanic used
 * Heft/Crunch: complexity of the rules (light vs heavy)
 * Imagination Landscape: grids-and-figurines vs theater-of-the-mind.
-* Moderator: whether there a GM (the safe assumption is yes).  If so, what are the GM’s duties; if not, how do players moderate themselves.
+* Moderator: whether there a GM (the safe assumption is yes).  If so, what are the GM's duties; if not, how do players moderate themselves.
 * Speed: an aggregate of how much time is required to execute mechanics
 * System Mastery: the level of rules expertise needed for a player to produce and play a viable character.
 * Random Number Generator (RNG): the tool(s) used to resolve uncertainty in the fiction.  If omitted, dice are assumed.
@@ -94,7 +94,7 @@ Mechanics are considered a checklist/set of tags.
 
 ### Binding
 
-Binding describes the relationship between an RPG’s rules and the settings that can be paired with them.
+Binding describes the relationship between an RPG's rules and the settings that can be paired with them.
 
 * Universal: Any setting genre, any genre (GURPS, HERO, Genesys)
 * Generic: Any setting within a particular setting genre (D&D)
@@ -117,5 +117,5 @@ Regarding marketing, it is expected that certain topics given in Poly-Genre will
 
 Promotional verbiage can refer to anything from ad copy, the "elevator pitch", or back cover blurbs.
 
-Discussion among consumers, as well as editorial media, will likely include as much detail as possible when classifying an RPG in order to be complete and forthcoming.  The market will seek to clarify and correct a publisher’s claims about their product.
+Discussion among consumers, as well as editorial media, will likely include as much detail as possible when classifying an RPG in order to be complete and forthcoming.  The market will seek to clarify and correct a publisher's claims about their product.
 
